@@ -1,4 +1,4 @@
-(#pose-detector)
+# Table of contents
 - [Pose Detector](#pose-detector)
   - [This code is a Python script that uses the Mediapipe library and machine learning models to classify yoga poses in real-time from a video source. It utilizes pose detection from Mediapipe to extract important landmarks from the human body, and then uses a pre-trained machine learning model to classify the pose based on these landmarks.](#this-code-is-a-python-script-that-uses-the-mediapipe-library-and-machine-learning-models-to-classify-yoga-poses-in-real-time-from-a-video-source-it-utilizes-pose-detection-from-mediapipe-to-extract-important-landmarks-from-the-human-body-and-then-uses-a-pre-trained-machine-learning-model-to-classify-the-pose-based-on-these-landmarks)
   - [Dependencies](#dependencies)
